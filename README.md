@@ -93,9 +93,9 @@ audio.wav
 Feature	                             FFmpeg         MoviePy
 Speed	                            ⭐⭐⭐⭐⭐   ⭐⭐
 Quality	                            ⭐⭐⭐⭐⭐   ⭐⭐⭐
-Batch files	                     Yes	    No
-Professional formats	             Yes	    Limited
-Control over bitrate & sample rate   Yes	    Limited
+Batch files	                         Yes	        No
+Professional formats	             Yes	        Limited
+Control over bitrate & sample rate   Yes	        Limited
 
 Recommendation:
 Use the FFmpeg version for AI, transcription, datasets, and professional audio extraction.
